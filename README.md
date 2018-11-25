@@ -1,2 +1,2 @@
 # CC2
-Activities in CC2
+Activities in Introduction to Programming
